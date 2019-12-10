@@ -25,7 +25,7 @@ otherwise number of verticies depends only on given edges.
 
 ### Example
 
-For following input
+For following input drawgraph draws following image
 ```
 5 6
 1 2 aaa
@@ -35,5 +35,5 @@ For following input
 5 1 aba
 2 4 abbb
 ```
-Drawgraph draws
+
 ![Example image](examples/example.png)
