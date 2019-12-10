@@ -19,7 +19,7 @@ If you are on windows, you will need to install Linux Subsystem for Windows.
 ./drawgraph < o
 ```
 where ``` o ``` is file describing graph in format shown below.
-First line must contain integers n and m separated by space. Next m lines follow each in format: integeres u, v and optionally string s.
+First line must contain integers  n  and m separated by space. Next m lines follow each in format: integeres u, v and optionally string s.
 This means that there is an undirected edge between u and v with optional weigth s. If all u and v are between 0 and n - 1 or 1 and n there will be excatly n verticies,
 otherwise number of verticies depends only on given edges.
 
@@ -36,4 +36,5 @@ For following input
 2 4 abbb
 ```
 Drawgraph draws
-
+![Example image]
+(https://github.com/Marcin-Szmagara/drawgraph/blob/master/examples/example.png)
