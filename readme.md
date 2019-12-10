@@ -10,8 +10,8 @@ Alternatively you can build drawgraph yourself.
 
 ## Building
 
-If your system supports makefiles and you have g++ compiler installed, you can use provided Makefile. You need to install SFML - [SFML](https://github.com/SFML/SFML).
-If you are on windows, you might consider installing Linux Subsystem for Windows.
+If your system supports makefiles and you have g++ compiler installed, you can use provided Makefile. You need to install [SFML](https://github.com/SFML/SFML).
+If you are on Windows, you might consider installing Linux Subsystem for Windows.
 
 ## Usage
 
