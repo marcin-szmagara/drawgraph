@@ -36,5 +36,4 @@ For following input
 2 4 abbb
 ```
 Drawgraph draws
-![Example image]
-(https://github.com/Marcin-Szmagara/drawgraph/blob/master/examples/example.png)
+![Example image](examples/example.png)
