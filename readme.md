@@ -5,13 +5,13 @@ It is written in C++17 and uses SFML library.
 
 ## Instalation
 
-Drawgraph doesn't require installation. If you are on 64bit linux chances are you will be able to run provided executable together with font folder.
+Drawgraph doesn't require installation. If you are on 64bit Linux chances are you will be able to run provided executable together with font folder.
 Alternatively you can build drawgraph yourself.
 
 ## Building
 
-If your system supports makefiles and you have g++ compiler installed you can use provided Makefile.
-If you are on windows you will need to install linux subsystem for windows.
+If your system supports makefiles and you have g++ compiler installed, you can use provided Makefile.
+If you are on windows, you will need to install Linux Subsystem for Windows.
 
 ## Usage
 
