@@ -23,7 +23,7 @@ First line must contain integers  n  and m separated by space. Next m lines foll
 This means that there is an undirected edge between u and v with optional weigth s. If all u and v are between 0 and n - 1 or 1 and n there will be excatly n vertices,
 otherwise number of vertices depends only on given edges.
 
-Click and drag vertices to move them around - especially useful when your graph is tangled. Press esc to exit.
+Click and drag vertices to move them around - especially useful when your graph is tangled. Press ``` esc ``` to exit.
 
 ### Example
 
