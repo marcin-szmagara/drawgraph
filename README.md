@@ -19,7 +19,7 @@ If you are on Windows, you might consider installing Linux Subsystem for Windows
 ./drawgraph < o
 ```
 where ``` o ``` is file describing graph in format shown below.
-First line must contain integers  n  and m separated by space. Next m lines follow each in format: integeres u, v and optionally string s.
+First line must contain integers  n  and m separated by space. Next, m lines follow, each in format: integeres u, v and optionally string s.
 This means that there is an undirected edge between u and v with optional weight s. If all u and v are between 0 and n - 1 or 1 and n there will be excatly n vertices,
 otherwise number of vertices depends only on given edges.
 
